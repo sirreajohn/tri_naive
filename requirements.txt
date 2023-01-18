@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+numpy==1.19.5
+opencv-python==4.7.0.68
+pandas==1.2.1
+streamlit==0.85.1
+tensorflow==2.5.0
